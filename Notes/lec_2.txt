@@ -1,0 +1,68 @@
+Lecture 2 Notes:
+
+Causal Philosophy: given observations and assumptions, how do we infer something?
+
+Judea Pearl - Causality, Mathematical treatment given to causal inference
+
+Plagiarism: What it is? And more...
+
+# Logical Techniques
+
+Arguments, validity & soundness
+
+Invalidity, fallacies, definitions
+
+Necessary & sufficient conditions
+
+Consistency, contradiction, contrariness
+
+- Will analyze philosophical arguments largely.
+- Legal, everyday: Not so much
+
+... On required reading and textbooks
+
+- Cricket and Chess: Motions
+- Motions in cricket, how does it compare to that in chess?
+- Space of available moves
+- Instinct, time, rapidity
+- Gut instinct, Strategies
+- Reflex
+
+In philosophical discussions, instinct associated with behavior.
+Compare that to intuition. An intuitive belief.
+
+Sometimes follow reasoning, sometimes gut feeling. Go by your gut.
+
+Train to play chess v/s go. Why was training for go more difficult?
+
+Which arrow is bigger question? Both are same. Illusion. Intuition, reasoning and measurements. What it tells you?
+
+This. Therefore, that - whether the premise holds - including probabilities - philosophical deconstruction of an argument - ambiguities of natural language - versus formalisms to avoid ambiguities, leaves out some finer threads
+
+- Take down the sentence. Get the argument piece by piece. Arguments:
+Premises and Conclusion. P_1, P_2, ..., P_i, ... P_n -> C.
+
+- Arguments: deductive v/s non deductive. 
+Deductive:
+All dogs are mammals
+Laika is a dog
+Therefore, Laika is a mammal
+
+- Validity and Soundness
+If I am in Hyderabad, I am in India
+I am in India
+Therefore, I am in Hyderabad
+
+:(, A => B
+
+Validity, once converted to a certain form, assume premises are true. Then is the conclusion correct. In the above example, it does not. B => A does not follow automatically from A => B. Not a biconditional.
+
+Truth has got nothing to do with validity. Assume premises are true anyway. Validity is all about form. Not some fact in the world. Real world Semantics taken out of it.
+
+> Logical validity
+X therefore, Y: X => Y
+
+Soundness: Valid + [True in Real World]
+
+> Read relevant portions in ...
+> Monday, 1st assignment on validity.

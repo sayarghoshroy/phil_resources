@@ -1,0 +1,119 @@
+Lecture 3 Notes:
+
+Critical Thinking, We're here now.
+
+- Overview of the logical techniques
+- Start philosophical techniques next class
+- Next Monday i.e. 24th August, start topic on God
+
+Nick of time reflex versus calculated moves in the previous class.
+
+Knowing term meanings. Natural Language Semantics. Terms specific to Philosophy.
+> Advantage: More precise. Disadvantage: Lose out on nuances.
+
+Theories. Einstein's general Relativity. Confirming evidence came later in 1920. Hubble
+Confirmation: Evidence based on ~~data~~. Confirmatory evidence.
+Why accept a hypothesis? Provide evidence. Red Shift.
+
+Galaxies moving away from us? But WHY?
+Can prove it with red shift. But what about the WHY?
+
+Justification: show a reason to believe
+Confirmation: logical relationship between evidence and data
+
+Argument: set of sentences, statements, propositions
+: some premises, one conclusion, premises intend to 'give a reason' for accepting the conclusion
+
+Justification and Explanation. Hypothesis and data + evidence.
+
+Explanation: reason why something.
+reason that:
+reason why:
+- causal: why did he die?
+- teleological: why invest in insurance?
+- formal: why cannot distribute 5 pieces among 4?
+- material: why is it light? Answer: Outer body made of carbon fiber.
+
+> Euler tour, [Konigsberg](https://www.maa.org/press/periodicals/convergence/leonard-eulers-solution-to-the-konigsberg-bridge-problem)
+
+> explanation for something that is not true. Belief is false. Explanation can be provided. "My parents made me believe in it." An explanation why I have the belief. Reason and process of acquiring a belief can diverge. Causal process of acquiring a belief versus the cause. 
+Perception is reliable. No other prior beliefs. Base it on explanation.
+
+Red shift is evidence of movement of stars away from us. But not the reason or explanation.
+
+Explanation as an argument:
+Premises - laws of nature, general physics
+Conclusion - phenomenon
+Balloon rising: Density...
+
+Making an Argument
+1. Justify
+2. Explain
+3. <b>Persuasion</b>
+
+What about superstitions?
+Even in persuasion, you providing an argument, aiming to change someone's beliefs. Controversial beliefs: might need > 1 argument. Bayesian System: Update our set of beliefs looking at new evidence in form of arguments.
+
+Not going into psychological properties. More mechanical ones: soundness, etc.
+Our Job, analyze the argument structure itself. Start out with premises, try to reach out to the conclusion.
+
+Non-deductive Arguments: Beliefs to show some probability of the event. No concept of validity. Therefore, focus on whether it is good or bad.
+Reverse: State premises. Reach conclusion. Why accept conclusion? Because it 'explains' the premises. Footprints on beach example -> There were human beings on the beach. (other alien species impersonators - less likely) go for the simpler explanation. - a 'good' non-deductive argument
+
+Identifying Arguments:
+I am tall and I am good at sports. 'Not an Argument'. Change the clause order, the meaning remains the same.
+I am tal and so I am good at sports. 'Argument'
+Both the sentences have 2 clauses or propositions. How are they connected? Disjunction.
+
+Argument markers: so, therefore, thus, hence, accordingly, since, because... Identify conclusion and premises. In your language.
+Word Sense matter: 'since' referring to a time in the past.
+
+Argument Analysis: Deductive versus non Deductive.
+Validity and Soundness.
+
+- Validity: if premises are true, then conclusion is true. No consideration to the truth or correctness of the premises.
+: Don't use 'reasoning' vaguely
+: Care about how you argue about what you say
+: Conclusion itself does not matter much
+: Make sure valid, if not, story ends there
+: If valid, truth of premises becomes the next step
+
+Logical form. Natural language to formal language. Propositional logic, formal, categorical.
+
+Enthymeme: missing premises. Happens in conversation. Make assumptions. Raining -> Avoid going out: rain -> wet -> difficult -> avoid going out.
+
+True Premises + Conclusion: Does not guarantee reasoning is 'good'.
+Needs to be a logical necessity.
+> Possibility vs Necessity: logical, physical, epistemic.
+> a certain speed of light or I fly: Logically possible (in some world) but not physically.
+> Epistemic: Given what we know, not a possibility. Haven't seen anyone fly. There are not 5000 students in IIIT.
+
+- Logic is the bare minimum. Need Physical and epistemic reasoning threads as well.
+- Invalidity: Disprove using a counter-example.
+> Premises true but conclusion is false.
+> Extract out form, letters and connectives. Simple and formal.
+> Thought experiment instead of counter example. Appealing to what you know. Background knowledge. May play constructive roles or negative ones (Contradiction). Scenario, Intuitive belief. Some bearing of what you hold true.
+'It is sunny. Therefore, it is raining.'
+
+if (), then (): implies, guarantees, provided that
+A conditional is NOT an argument. No premise.
+
+> "If in London, then in UK.": Not asserting where I am at any stage. Figuring out the assertion. Just the truth of the conditional. An event is typically not a proposition.
+> Make use of truth table. Material implication.
+> In philosophy, try to make everything super clear. Define everything out. No ambiguities.
+> Argument on God: common, Focusing on Causality. Relevant component in third question in Assignment 0.
+
+Conceptual Analysis:
+- Individually Necessary and Jointly Sufficient.
+- Biconditional.
+- Notion: Epistemic or Semantic. Pen being long, narrow, having ink, method to make marks on paper. Definition too narrow or too broad.
+: Age old question - Define a human.
+Cannot analyse anything without definitions.
+
+> Definitions can be refined. Can start out wiht some pre-historic idea and evolve from there onwards.
+
+> Precisely defining causality is difficult. Even circular.
+
+Non-conceptual Analysis: Natural Language. Not really formal. "A affects B". Conditions, Mechanisms.  Scientific and Causal. 
+
+Logical Analysis: Conjuncts, Disjuncts, Contrapositive, Contradiction, Contraries, Consistency, Coherence (epistemic). Have loads of beliefs about something. Do they cohere with each other?

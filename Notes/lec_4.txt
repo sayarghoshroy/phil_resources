@@ -1,0 +1,35 @@
+Lecture 4 Notes:
+
+Philosophical Tools - Methodology
+
+Values - right and wrong - wrong in one culture but right in another. Right and wrong and culture. Example on chess versus cricket. Paying attention to things in front of you. Examples, premises and leading to conclusions. Is the argument valid?
+
+Question begging versus circularity in philosophy.
+
+Parsing paragraph 1:
+
+P: Right & Wrong are relative
+Q: No universal duty that binds us
+
+Wrong in one culture is right in another: Restating P
+
+R: Relativism should fill us with toleration
+
+Now R doesn't follow from P and Q. I can say it's right in my culture to not tolerate others. So, R has to be a new premise.
+
+Cannot say we are right and they are wrong: Again, just P
+
+Everyone ought to respect others' values: Basically R again.
+
+Where is the argument, what am I missing?
+
+> Aristotle focussing on concept of virtue.
+
+- Fallacies of Reasoning are to be avoided - formal (violate rule of inference) - informal (not obeying some authority) - How do you come to the truth of a conclusion? - fallacy is it related to validity or soundness?
+
+Bill Gates's tweet. Mosquitos kill more people.
+
+Argument analysis. Put the argument in a standard form. Plato, Euthypro. Beautiful quote. Chicken and Egg problem.
+- Designing the premise, conditionals - argument example: God and Morality
+
+Principle of Charity: Give the speaker the best argument. Going off in tangents, omit details. Define out things, clarify. Dissect the arguments.
