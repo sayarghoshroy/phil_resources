@@ -1,0 +1,42 @@
+Lecture 5 Notes:
+
+Philosophical Tools Continued. Homework: Lewis Caroll's Story about Achilles. The logical problem that is highlighted: Infinite sequence of premises. Modus ponens form: if p then q, p. Tortoise asks for the extra premise to be included, new premise each time. Why should I accept this rule?
+
+Soundness and Justification. Tortoise not concerned about soundness, just the justification of the rules themselves. Should we use premises about how we reason? Include premises in the arguments themselves. Meta rules for the rules themselves. We typically go ahead with the good arguments.
+
+Recurse or Regress: keep asking the same question. I get the rule but why should I accept this? Can recursiveness be of any help here? Base case, axioms. What gives an argument the property of validity?
+
+Example: bottle has property of being orange in colour. Described the bottle. Do I still owe an explanation about why bottle is orange?
+- Need Some Kind of foundation. Philosophy questions these foundations.
+- Other angle about causality: Why is the bottle orange?
+- Metaphysical versus Epistemic. Capacity of identifying orangeness. Shades, wavelength - whether predicate is being manifested or not - purely metaphysical question
+- Why should I accept the modus ponens rule? Because it has worked out well in practice.
+- Is there a base universal truth that is un-questionable? Or does every argument require an explicit set of premises? : In practical scenario, assume background knowledge, idea of pragmatics - Ways of asking the question are also important.
+- What are fundamental truths? Metaphysical, formal? Is it reasonable - sound, etc? Try not to move away from the goal, or what the argument is all about? 
+- Good faith. Propoer empirical evidence.
+- Intuition Pumps: I need to bring out certain intuition already within you. Immediate reaction versus explicit reasoning. 2+2=4. Intuitions sometimes correlate with truth - origin of thought experiments. Right to life of mother does not exceed right to life of the foetus. Intuition: based on culture - Sapir Whorf Hypothesis and more. Intuitive 'beliefs'. Are there universal intuitions? The base case which stops the regress. Intuiton has the property of immediacy. Prior experience + evolution plays a role. No explicit reasoning process.
+
+> Question Begging. Premise assumes truth of conclusion instead of supporting it. Happiness, Marxism examples - versus circularity.
+
+> Reductio ad absurdum. If you believe X, you must believe Y. Y is absurd. SO do you really believe X? - What is absurd? - Similar to proof by Contradiction. Falling bodies thought experiment.
+
+> Can all thought experiments be put up as arguments? Nature of mind. Formalizing thought experiments. > Paradox puts objectivity on shaky footing. Transform thought experiment into a mathematical theorem.
+
+> Objectivity versus Subjectivity: perception, opinion maybe biased OR consensus of a group (scientists). Secondary qualities (color) and Primary Qualities (mass, dimensions). Credence (objective probability) and Chance (objective probability) - does this map to absolute/relative.
+
+> Abstract and Concrete: numbers versus physical objects. Concrete things usually have some causal power or a causal role to play... Abstract entities do not enter into causal relations. Abstract: outside space/time. Point to a space and time where number 1 exists. Infinitely many numbers? Infinitely many physical objects. How we deal with numbers versus objects - one bottle: does it have the property of being one?
+
+Type/Token distinction. Orangeness: type (member of the class orange things) or token(individual instances of orange).
+
+> Descriptive/Normative: Ought, should, good, bad, correct, right (Normative and Evaluative). Goodness can be reduced to a certain set of descriptive properties. But everything cannot be reduced further. Moral issues. Descriptions have truth conditions. Moralistic Fallacy. Naturalistic Fallacy. Does this map onto the fact/value distinction?
+
+> Necessary, Impossible: Merely true and necessarily true. Truth in actual world versus in every possible world. Absolute or contingent.
+
+> Analytic and Synthetic: Synthetic needs knowledge of the world. Analytic can be sort of vacquous.
+
+> apriori and aposteriori: through senses or through logical, conceptual, mathematical reasoning - observing a triangle versus arriving at properties of a triangle.
+
+- analytic / synthetic: semantic
+- apriori / aposteriori: epistemic
+- necessary / possible: metaphysical
+> Cross connections, grouping: Self evident truths?
