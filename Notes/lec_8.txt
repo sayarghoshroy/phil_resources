@@ -1,0 +1,54 @@
+Lecture 8 Notes:
+See L7 Slides
+
+Left of at design argument. Contingent Facts. Ontological Arguments.
+Leibniz's Cosmological Arguments...
+
+It is a contingent fact that there are contingent things... But maybe we can make a case that it is a necessary fact that there are contingent things.
+
+Design argument: standard form. Insights from science has given a great blow to it. Certain things are useful. How philosophers dealt with certain things. Change size, shape, ..., the purpose of the machinery changes.
+
+About mind.. suppose someone says, our brains are intricate, physio-chemical stuff goes on. So brain is a device performing a function. Bailey: change things here and there, then something wouldn't function. Thus, do we view brain in a purely mechanical manner. Brain science, cognitive neuroscience: provides a mechanistic picture of the human brain.
+
+Design argument - asks you to look around. And gives you some evidence for it. Bailey's discussion: around evidence and how you can accomodate all of that.
+
+: Ontological Argument
+Russell - Logician, Philosopher.
+God truly exists. Something than which a greater cannot exist, must exist. The argument structure itself. Concepts of great, existence in reality > existence in understanding. God = Great in any sense of comparison. Maximal way of using concept of greatness. The Greatest that one can imagine would be considered as God.
+
+I own a phone but not a palace.
+Existence of Palace > Existence of Phone.
+: Follow principle of charity throughout. Be fair. On observable and non-observable entities. How can we even compare unobservable entities?
+
+God is great. Great is an umbrella term which captures everything. Make necessary assumptions. Say "Android > Apple".
+
+Why interesting?: Sit in your room, meditate, come up with an existence of God formula. Conceptualizing idea of God. What about religion? All religions show God as the greatest. - Maybe monotheistic Judeo-Christian idea of God. Hindu, Pagan: Gods more as heros. Avatars of God. Jainism: God is not great, idol for people to follow. Nastika and Anastika schools. God as path to liberation: is liberation great?
+
+X: s.t there does not exist anything greater than X. Appeals to one's sense of intuition. Concept of God is intelligible: since we are discussing it right now.
+
+Existence is valuable to us. Therefore if God did not exist, God in existence would be greater... Beliefs and greatness. Reductio, Approaching it in an epistemic fashion.
+
+God in whom everyone believes > God in whom only some people believe. Greatness involves how we perceive what we believe in, whether we accept it's existence, whether it is great.
+
+Aquinas' objection to Anselm: Some people believe God to be a body. So ok, something exists, but what is God. What is meant by it's existence? Aquinas does not really approve of the ontological argument.
+
+Trying to classify the kinds of available objections:
+- Linguistic Issues: 'Cube root of 3rd planet from sun': Exists in understanding. Concept? Mental image? What kind of image? Aggregating certain terms perhaps. What is your concept of the triangle? What about justice? - Visual symbols to associate with - But what do you really mean by justice?
+
+Imagine a 1000 sided figure. Difficult to imagine. Much less vivid than an equilateral triangle. Metaphysics; say something about reality just by reality. Concepts may not always be mental images.
+
+Ambiguity: Something than which nothing greater can be thought of. Not an empirical issue - a specific concept or some concept which satisfies this property.
+
+Some concepts possess very properties that characterize them: widely shared, rare, sophisticated, surprising, abstract, non-existence.
+
+- Existence is not a property. X in reality, Y not in reality -> X > Y. Comparisons of relative greatness can be made only among things that already exist.
+
+- Anti-realism: Reductio Ad Absurdum:
+Not P is absurd, therefore P
+OR
+Not P is absurd, therefore NOT(NOT P)
+- is it really boolean. Impossible to show God does not exist. Does it mean that God exists? Is consistency a justification. Simple examples to illustrate this distinction.
+
+- Argument, to invalidate the argument given by Anselm. Zero exists but cannot be conceived.
+
+...Ontological argument. Logical form.
