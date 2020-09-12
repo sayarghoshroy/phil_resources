@@ -1,0 +1,36 @@
+Lecture 10 Notes:
+
+See L9 Slides
+
+...Pascal's wager...
+Connecting it to rationality of faith. Faith: cop-out, inspite of or perhaps because of lack of evidence.
+> Bruchac: Notion of acting on p... Faith is not about believing without reasons, is rational under certain circumstances. Believe in: prove with evidence (evidence to support the statement), Believe that: more complicated, say I believe that recycling is good for the planet. To have faith in a claim p, willingness to act on p without further evidence, and to remian committed to acting on p when counter-evidence arises.
+
+Faith as an attitude towards a claim - tied to action. Take a risk on faith that X. Epistemic rationality: credence: degree of belief. If degree of belief is rational - must cohere, fit evidence, sensitive to new evidence... extension to Bayes' Theorem. Bayes' is not the final say - people don't reason according to Bayes' rule or even with probabilities.
+
+Practical Rationality: means to an end - utility function. With Risk: utility can include the risk... However, utility is mostly an atomic value. So we need to capture risk more explicitly -> go really well or go too poorly. As opposed to Pascal where all equally likely scenarios weigh equally. But we might want to weigh things differently - something goes really bad. More about the rationality in the way you act.
+
+> Beliefs are personal choices. Personal choice affects idea of risk. The utility tables are independent of individual beliefs. AI/Ethics: What is the risk involved? Not just the utility. Some notion of utility is not enough to capture what might happen if it all goes wrong?
+
+P[nuclear failure] = very low. Does that mean nuclear power plant failures pose no risk? Thus, consider all factors more explicitly. Claim: its more about practical rationality as it involves human actions being done. Example of Bates: good person but investigated for murder. Q: If she has faith that Bates is innocent? Then marry, stick to decision even if investigation proves that Bates is indeed the murdered. Similar argument for faith in God. Does the argument structure still look good in a religious context? Are the extremities too far apart in a religious context?
+
+The marriage example. Epistemically rational? If other degrees of belief cohere... degree of belief that Bates in innocent goes down with every new piece of evidence. (We require evidence or explanations to establish beliefs leading to epistemic rationality, but still, what about practical rationality?). 'Concept of whether too risky given a degree of belief.'
+
+> Actions being divergent from what epistemic reasons we have - procrastination.
+
+> Faith does not require you to refrain from looking at new evidence. Just that decisions won't depend on what new evidence comes in. So, no need to do anything that is special.
+
+- Digression: Motivation to keep betting. Maybe because you lost before. So you keep on betting.
+
+> Faith based practical rationality is an observable phenomena.
+> Analyzing evidence forms in a tabular framework... Married to innocent Bates > Married to murderous Bates - if not married, does not matter whether Bates is a murdered or not...
+
+But rejecting an innocent man just because he might be guilty... should have a negative reward. "Innocent until proven guilty" - A negative cost 'c' for postponing the decision
+
+- If there are costs in postponing, and you feel that the claim is deep and convincing - even if not certain, you may have some faith in the claim + Potential benefit of acting soon OR benefit to waiting : waiting for more information - prior beliefs:
+- Already fairly confident (credence)
+- Investigation is not conclusive (credence)
+- Postponing is costly, Risk avoidance (value and attitude)
+> Weighing benefits
+
+-> Decision under new evidence. How much that should be factored in? Touching up on other examples

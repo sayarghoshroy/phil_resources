@@ -1,0 +1,36 @@
+Lecture 9 Notes:
+
+See L8 Slides
+
+Initiate. Rationality of Faith. Discussion of topics to be covered. Topic of God more or less wrapped up.
+
+Belief in God. Pascal. Child Prodigy. Fragile individual. Pascal's triangle. NT, Probability. His philosophical argument for belief in God.
+
+Belief in Santa. Cause that gets you gifts. Theology + Mathematics. His book published posthumously. Pascal's pages. He was thinking about a lot of things. Better ways to frame questions - not look at answers. Whenever pascals uses 'reason'... finite annihilated in the presence of the infinite...
+
+What we have: we know there is an infinite and we are ignorant of its nature. Know there is a God, not know what He/She is. Some properties of God: greatness, infinite - are known. But we don't know God's exact nature. Is this intelligible? Countable infiniteness in numbers. Know a number is odd or even. Don't know what's the largest number. But we know some of its properties such as if odd, then it cannot be even.
+
+So properties from finite numbers translate to that of the infinite. Can we make any such claims about the nature of God? About the property of God basing it upon something else that is finite, tangible, etc, etc. Try to give the best case to pascal. Principle of charity.
+
+On beliefs... Natural Lights. Descartes - light of reason in medieval philosphy. However, this is natural light - appeals to our natural capacity. Not the formal methods, but the more inherent intuitions. Evaluation of truth - which can be done by oneself - self evident - association with nature - maybe be a necessary truth. More than just going by logical analysis, we should use something that appeals more to our common sense and world knowledge.
+
+Let's say an argument is sound. Suppose it concludes that a helium baloon floats or rises up in air. Still if one asks, what gives the conclusion its strengths? Concept of a force with which a conclusion follows. Illustrate with natural phenomena, etc. Either this or just a causal explanation.
+> There can be a lack of explicit arguments. Why are the road wet?: Because it rained heavily last night.
+-> No use of reason or proof here. "Reason can decide nothing here." - Is he talking about propositional reason or probabilities? Lacking in proofs does not imply lacking in sense. (Opinion, Natural Inclination, Beliefs, Intuition play a huge role here)
+-> Say P[event] = X. Mapping R.V(s) to numbers in a range [0, 1]. Essentially mapping beliefs onto a number. Introduce this way of valuing beliefs. Context, what's going on outside in the world, natural phenomenon and other things.
+-> No deterministic true and false way of reasoning. Introduce probabilities into the picture. True course is not to wager at all.
+-> However, we must wager and it is not optional. Can go two ways. Conclusion is not God exists but 'I believe that God exists'.
+
+Proposition deriving existence of God versus associating a probability to the event that God exists or one should have a belief that God exists. Is Pascal helping us find out own beliefs? Are there rational principles of reason involved in beliefs?
+
+-> Pascal uses the principle of maximizing expected utility. Incorporate Baye's Theorem into the picture. What causes what? Idea is to update previous beliefs to reach a convergence state (similar to a MDP). Need knowledge to assign probability values (priors). P[there is life on Mars], a scientist working on Mars will have a better answer than common folks. So priors are based on subjective beliefs.
+
+-> Most people don't consult a decision table while formulating beliefs. -> Decision table for God exists based on Benefits. Christian way of life... Nature of heaven and hell. Not really important. But concept of utility based on premises is what matters. So it reduces to just show that there is a non-zero chance that God exists... Pascal's wager argument
+
+> Rationality: understanding of how we are better off doing something rather than something else. Overall sounds too simple. Can wager too much.
+
+> Coin double experiment. Going too a beach, might have a divine moment. Everything might lead to something divine. Concept of utility gain.
+
+> Examples with wagering. Life gain example. Risk of loss and gain. Infinity of gain or loss. Maybe there is a loss with living a life assuming God exists.
+
+> Assigning probabilities arbitrarily is an issue here.
