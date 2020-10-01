@@ -1,0 +1,59 @@
+Lecture 11 Notes:
+See L12 Slides
+
+Defining Causation:
+- No just definition of cause, drawn from something extraneous
+- Needs to originate somewhere
+
+"If Godse did not kill Gandhi, someone else did" - Claim A
+"Had Godse not killed Gandhi, someone else would have" - Claim B
+
+- These 2 claims are different, common sensically and intuitively
+
+Proving a proposition is equivalent to proving its contrapositive: ~A -> ~B <=> B -> A
+
+Strictness of Logical equivalences (truth tables) and flexibility of natural langauge.
+
+- Counterfactual Conditionals:
+Example: 'Counterfactual conditionals are conditional sentences which discuss what would have been true under different circumstances, e.g. "If Peter believed in ghosts, he would be afraid to be here." Counterfactuals are contrasted with indicatives, which are generally restricted to discussing open possibilities.' - From Wikipedia
+
+Difficult as you're trying to convey things that would have happened but did not happen.
+
+Counterfactual account of causation: causal claim = assert a counterfactual conditional? NO. David Lewis disagrees. If cause goes missing, it's effects will also go missing.
+
+Causal relata: Classes of possible spatiotemporal regions. If A happens, then B will happen.
+
+Distinctiveness: Events are not identical, neither is one part of another, neither does one imply another
+
+Standard interpretation of counterfactuals: Giving rise to spurious non-causal dependencies. Causes precede events.
+
+Hume: Counterfactual, Causation is Meaningless
+Lewis: Respect Laws of nature and a set of contingent facts.
+
+"Had Godse not killed Gandhi": Same as our world, Contingent facts + Laws of nature still hold. Would Gandhi necessarily be killed in that possible world. Lewis thought that the possible world is the real world.
+
+Worlds are more similar to actual:
+- w.r.t Laws of Nature: if they have fewer miracles + violations of actual laws
+- w.r.t Contingent Facts: greater the spatio-temporal region of perfect match of particular facts
+
+Trade Off between these 2.
+
+Comparative Similarity between 2 worlds. A, B: Which one resembles the actual world more. Truth of a particular conditional in the actual world. Study of conditionals.
+
+Talking in the contrapositive format. You cannot make a statement about causality from 'if A then B' or 'if not B then not A' type propositions
+
+Bactracking counterfactuals and non-bactracking counterfactuals (Causation is supported, spatio-temporal progression)
+
+Temporal Asymmetry: Time reversed causation also cannot be ruled out on a priori grounds. Time travel might be possible logically. We cannot rule something out without proper proof or experience.
+
+What is typically true:
+- similarity
+- overdetermination (causes are very often overdetermined by their effects)
+
+Example of 2 people shooting a person. Overdetermining the cause of death. C1 causing E + C2 causing E.
+And a case where C causing E1, E2, E3, ..., En.
+
+Which world out of 2 is closer to the real world? A world where probability of sequence of particular events as in the real world is higher. How do you weigh different sets of events given some grounding (some presumed change from the real world)? So you consider the whole overall probability of the entire event sequence.
+
+Next Event: Discussion Session for Short Essay Topics - Possible topics and Avenues
+Next Topic of Study: Preemption.

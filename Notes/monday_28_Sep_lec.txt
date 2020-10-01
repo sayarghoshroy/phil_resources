@@ -1,0 +1,41 @@
+Lecture 12 Notes
+See L12 Slides
+
+We're trying to understand the notion of causation - Causal dependence is sufficient but not necessary - Come to the concept of preemption
+
+Concept and Notion - Understand somehting abstract, the intuition and a set of formal theorems, lemmas. In philosophy, we distinguish between concept and notion.
+
+Physically necessary truths and Logically necessary truths: Now we analyze the notion of causation itself. Detour into Aristotelian Causes.
+
+Lewis and the counterfactual theory. Causal and counterfactual dependence - an analysis of the notion causation.
+
+Analyzing arguments: validity and soundness. How about analyzing notion?: the conditions for notion: necessary and sufficient. Causal dependence: why is it sufficient but not necessary?
+
+Example: Defining luck. Whether the definition is good. Just a notion of luck is being given. How will you analyze this notion of luck?: iff the occurence of that event is beyond the individual's control.
+
+> Strategies for analyzing the definition: Study the usual cases where the word luck is typically used. "Lucky Draw". Randomness of something related to luck.
+
+Touching up on the concept of causal dependence. Look at the logical form of definition. Only what is being said in the sentence. - Is a storm on Jupiter lucky for an individual? NO. But it is beyond the individual's control and it's occurence. So this would be a counter-example to our definition. - The definition is actually necessary but not sufficient. OR consider the person meets an accident: meets the conditions, but is clearly not lucky for the individual.
+
+Add more conditions:
+1. Relevant to the individual
+2. Results in a sufficiently large positive reward for the individual
+
+Causal Dependence is sufficient but not necessary: Preemption. A, B plan to kill C and take aim. A fires. B sees A firing and does not fire. B's action merely preempts potential cause. Preemptive action. But both A's and B's actions are on par from point of view of causal dependence.
+
+Effect: C's death. On which event is that counterfactually dependent on.
+If A did not pull the trigger, B would. If no one pulled the trigger, then C would not have died*. A was the one who caused the death. That is the immediate causal claim. A's action preempted B's action.
+
+Say both A and B were arrested. Jury: Punish A for murder, Punish B for conspiracy. Causal dependence: Keeps A and B on par.
+
+> Causal Transitivity: causal chain e_1 → e_2 → e_3 → ... → e_N
+Taking care of preemption: there is an actual chain from event A to C's death but no chain from event B to C's death - step-wise (counterfactual) dependencies traced back from event to cause event.
+
+A and B throw rock at a glass window. B's throw breaks it. A's throw passes through. Alternative causal chain cut short by the main causal chain. Trace a counterfactual dependence back from shattering of glass window to B's throw. What about tracing back to A's throw? - Same as previous case. A's throw would have been the cause but it ended up not being the cause.
+
+On Hume's thoughts: evidence based on which we make claims... Move on to the experimental results for effectiveness of a drug. Randomized control trial. > COVID-19 Case fatality rate grouped based on age demographics.
+
+> Cholesterol and exercise.
+
+Simpson's paradox, Necessary analysis. Prior Probabilities.
+Next Event: Discussion Session for Short Essay Topics - Emphasis on topics in Yellow and Red.
