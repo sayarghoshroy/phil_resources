@@ -1,0 +1,27 @@
+Lecture 11 Notes:
+See Lecture 10 Slides
+
+Aristotle's 4 Causes and Hume's Regularity Account: Idea is not to memorise the 4 causes, but to understand how to model day to day causal claims using the 4 causes
+
+Invoke a causal chain, there may be multiple internal causal chains which are abstracted out - there are other ways apart from causal chains which can be used to understand causality. Einstein Believed in existence of causation in the world unlike Bertrand Rusell. Rusell was skeptical, believed in notions of correlation - other statistical notions. Causality is just one kind of correlation.
+
+> Plato: Splendid to know causes of everything - but no natural aptitude for that kind of investigation. - When you want a cause, you're looking for some kind of explanation
+> Aristotle adds: The explanation does not admit of being otherwise. No other explanation would count as a sufficient explanation. Reason versus cause. Explanation why something happen or why something did not happen. 'Vitamin supplements improve immunity. Increasing immunity prevents COVID.'
+
+> Reasons are entities which enter into the reasoning process (inductive or deductive). The actual arguments form the reason structure. The cause on the other hand is the actual event in the world which initiates the causal chain on events.[Recursiveness, what was the first cause? Take it with a pinch of salt: The first event within our immediate scope]
+
+- What about pre-conditions? What does it mean by being otherwise or not?: The set of possible priors or causes must be fully exhaustive. "The Lecture did not take place": was the actual event. What are the possible explanations? My explanation should consider all possible causal priors. In a way, if say that X is the explanation of Y, it is not possible that X' not same as X is a cause for Y. Adequacy of the explanation.
+
+> Sense of Adequacy: law of nature of initial conditions - deductive necessity. In the form of a deductive argument leading to a conclusion which is true in the real world. Even a contingent truth can be the outcome of a deductive argument.
+
+- If giving a relevant cause is necessary and sufficient for scientific explanation? How we can identify the true cause without being misled in an adequate + exhaustive manner. Causation as a matter of answering a why question. Epistemic: what is the reason of Y occuring? Give me an 'explanation' - concpet of identifying the cause. Are we talking about something we know? Even if we know X is the cause of Y, we want the why.
+
+> Account of causation: Ways we speak of causes:
+1. Material: Out of which a thing is made
+2. Formal: Form of the object
+3. Final: What it is for - teleological
+4. Efficient: Source of primary principle like an adviser
+
+Leads to 'Adequate determination'. 'Causes in the same way.' 'Causes of each other: causal cycle (Hardwork and Fitness)', 'Presence and Absence', 'Prior and Posterior', 'Parts making up the whole: Parts cause the whole'
+
+Next Lecture: Start off with Hume.
