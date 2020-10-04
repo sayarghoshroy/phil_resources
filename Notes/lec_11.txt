@@ -1,5 +1,5 @@
 Lecture 11 Notes:
-See Lecture 10 Slides
+See L10 Slides
 
 Aristotle's 4 Causes and Hume's Regularity Account: Idea is not to memorise the 4 causes, but to understand how to model day to day causal claims using the 4 causes
 
@@ -8,7 +8,7 @@ Invoke a causal chain, there may be multiple internal causal chains which are ab
 > Plato: Splendid to know causes of everything - but no natural aptitude for that kind of investigation. - When you want a cause, you're looking for some kind of explanation
 > Aristotle adds: The explanation does not admit of being otherwise. No other explanation would count as a sufficient explanation. Reason versus cause. Explanation why something happen or why something did not happen. 'Vitamin supplements improve immunity. Increasing immunity prevents COVID.'
 
-> Reasons are entities which enter into the reasoning process (inductive or deductive). The actual arguments form the reason structure. The cause on the other hand is the actual event in the world which initiates the causal chain on events.[Recursiveness, what was the first cause? Take it with a pinch of salt: The first event within our immediate scope]
+> Reasons are entities which enter into the reasoning process (inductive or deductive). The actual arguments form the reason structure. The cause on the other hand is the actual event in the world which initiates the causal chain on events. [Recursiveness, what was the first cause? Take it with a pinch of salt: The first event within our immediate scope]
 
 - What about pre-conditions? What does it mean by being otherwise or not?: The set of possible priors or causes must be fully exhaustive. "The Lecture did not take place": was the actual event. What are the possible explanations? My explanation should consider all possible causal priors. In a way, if say that X is the explanation of Y, it is not possible that X' not same as X is a cause for Y. Adequacy of the explanation.
 

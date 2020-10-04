@@ -1,0 +1,26 @@
+Lecture 15 Notes:
+
+Started off with the example of:
+Interventionist Account of Causal Relevance - Semantic account of causal claims: Providing truth conditions - causal relations: does it manipulate the scene, does it make a difference?: Events, properties become variables which take different values. Causal claims relate variables
+
+Counterfactual account: True causal relations are generalizations: what would happen under a range of different circumstances - answering w-questions.
+
+Interventionist example: Smoking (S) causes Yellow Fingers (Y), Lung Disease (D). Make someone's finger yellow, that does not cause Lung Disease, thus Y does not cause D. Interventions are not restricted to human manipulations.
+Correlation: Y & D, perform randomized control trial. S causes Y and D.
+
+Representation: X: D -> ran(X) with a domain D of outcomes or individuals, ran(X) of possible values of X. 
+
+Fire (F) causes change in thermostat reading (T). Intervene to set values of F from 0 to 1. T changes from t_1 to t_2. F causes T is invariant under intervention. Causal contexts can be represented using DAGs, edges representing causal relationships. SCM (Structural Causal Model): Structural equations.
+
+- Exogenous (U) or background variables, Endogenous (V) or observed variables, Functions (F): to model V from U.
+
+- G is a causal graph: nodes in {U union V}, edges in F. Create a probability distribution P induced on this graph - use its associated properties.
+
+- Causal Markov Assumption
+- Faithfulness Condition
+- Independence of Errors
+
+SCM and Counterfactuals: Relate Variables to each other via well defined relations. Intervention on X: fit X = x denoted by do(X = x), break the arrow. Observe: P(Y|X), Intervention: P([Y | do(X)])
+- Is P[storm | do(B)] = P[storm]: Does the barometer reading affect the storm?
+
+> Minimalist criteria: Direct Causes. Possible intervention on X changes the Probability distribution modeling Y. But this cannot be a proper definition of what is a cause.

@@ -1,0 +1,39 @@
+Lecture 12 Notes:
+
+See L11 Slides
+
+Looked at Aristotle. Some more on Aristotle. Physics Book 2 Chapter 3. Sculpting example: Non-coincidental causes of the same thing. Sculpting craft and the bronze are different types of causes. Source versus primary principle.
+
+Think along the lines of the 4 causes. The craft is the efficient cause, not the person crafting the statue. Is craft something physical? Can something non-physical be a cause? Various interpretations towards understanding causation itself: notion of a precise cause - remove irrelevant details, just enough. Cause should be proportional to effect, just point out the relevant cause.
+
+> 2 Forms: This therefore that, Y because of X OR Y is from X
+- X is the stuff of which Y is made
+- X is the stuff from which Y is made
+- X is the source from which Y comes
+- X is the agent responsible for Y
+- X is the event which causes Y
+- X is replaced by Y
+
+: Forms of dependencies. Causal dependency being one of them. Dependency can also be metaphysical. Brain states (cause OR constitute) Mental States.
+
+> Hume: Enquiry concerning human understanding. Section IV and VII: Knowledge of causal relationships, What exactly is causality (a metaphysical question).
+> What cause is: to understand it exactly, we'll have a lot of problems. Causes are in itself drawn from something extraneous. There is a necessary connexion between what we call as cause and what we call as event.
+- We cannot think of anything which we have not antecedently felt, by either external or internal senses. Mathematical and conceptual truths. Examine the impression, find it greater certainty.
+
+: Going by actual observations: one does actually follow the other... can never conjecture about effect with one glance at an object. The machine's functionalities may be concealed from us.
+- X causes Y. Observe X and Y in the real world. But if we cannot observe them clearly and we cannot figure out the connection. There might be cases where you cannot observe the connect in any scenario. Example: Existence of a square circle, transfer of heat purely by sight.
+
+- If it is Conceivable, then it is Possible.
+- Then you perform the empirical tests.
+
+What if you cannot even conceive the connection? Maybe you did not pay attention? What if it is impossible to conceive.
+
+- Difference between conjecturing and imagining. Cannot conceive a square circle. Even with the mathematical definitions. [Take up Hume first, radical claims with arguments]. How to respond to such claims whcih are not even conceivable for you? - Some truths are self evident. It is part of the world. Sort of like a lemma in mathematics.
+
+- Connection between brain and body. Still we need energy to move a body part. Keep asking and saying that the connection is not apparent to me.
+
+- Claims have to be verifiable. A causes B. How do we know this for sure? We need to be biologically equipped to notice the connexion. Hume uses epistemic principles to argue for something in particular. Rusell agreed with Hume to some extent. Does it make sense to posit something which you cannot conceive? - Like a magic wand: The conceivability principle.
+
+Events following one another. 'Conjoined' but not 'Connected'. Define connection and connectedness in more details. Impression of necessary connection itself - we cannot infer anything without some prior experience (What about genetic experience?). Example of a person who was paralyzed. Connection is 'connection in our thought - based on ideas of the objects and how they are connected'.
+
+> Constant conjunction: Leibniz - principle of sufficient reasons applies to contingent facts only. Laws of nature: Contingent or Necessary? What are the laws of nature? Necessary: Logically or Physically? ... Stop at Defining causation.

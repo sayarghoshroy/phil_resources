@@ -4,7 +4,7 @@ See L9 Slides
 
 ...Pascal's wager...
 Connecting it to rationality of faith. Faith: cop-out, inspite of or perhaps because of lack of evidence.
-> Bruchac: Notion of acting on p... Faith is not about believing without reasons, is rational under certain circumstances. Believe in: prove with evidence (evidence to support the statement), Believe that: more complicated, say I believe that recycling is good for the planet. To have faith in a claim p, willingness to act on p without further evidence, and to remian committed to acting on p when counter-evidence arises.
+> Buchak: Notion of acting on p... Faith is not about believing without reasons, is rational under certain circumstances. Believe in: prove with evidence (evidence to support the statement), Believe that: more complicated, say I believe that recycling is good for the planet. To have faith in a claim p, willingness to act on p without further evidence, and to remian committed to acting on p when counter-evidence arises.
 
 Faith as an attitude towards a claim - tied to action. Take a risk on faith that X. Epistemic rationality: credence: degree of belief. If degree of belief is rational - must cohere, fit evidence, sensitive to new evidence... extension to Bayes' Theorem. Bayes' is not the final say - people don't reason according to Bayes' rule or even with probabilities.
 

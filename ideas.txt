@@ -1,0 +1,13 @@
+I am doing a Project where I'll be demonstrating trends such as the Simpson's Paradox in real world Natural Language Data. To introduce the project, I'll be showcasing Simpson's paradox in a fairly simple real world dataset – just to ground the reader. For the main part of the Project involving natural language data, I am planning to do at-least one of the following two studies: 
+
+Analyze standard text summarization datasets but with a twist. An extractive summarization task can be framed as regression task where we try to assign a relevance label to every sentence in the article. Now, we can analyze trends in the data by plotting the normalized relevance score in the y-axis and various other factors such as length of the sentence, number of content words in the sentence, the content to text length ratio, norm of the semantic embedding vector, semantic similarity between the sentence and the article, etc. 
+
+Analyze standard Hate Speech Detection datasets with gold standard labels. The goal would be to find instances of Simpson's paradox while modeling various kinds of metrics related to hate speech detection. For example: We can look for trends in how the length of the text affects the whole Offensiveness metric. Apart from the basic text, other feature sets such as the amount of expletives can also be tested out. 
+
+---
+
+~Slightly lost regarding topics...~
+
+~If there is something that you're working on currently which fits into the course structure, and there is some subproblem attached to that which I can work on, do let me know.~
+
+~Otherwise some directions or ideas would also help a lot.~
