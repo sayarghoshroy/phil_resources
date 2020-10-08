@@ -1,0 +1,17 @@
+Lecture 16 Notes:
+
+See L14 Slides.
+
+Structural and Interventionist Counterfactuals. Mostly wrapping up things here. Would we add anything new to the question 'Will studying Philosophy improve a student's thinking ability?' - Now that we have learnt about causal inference. How would causal matters make a difference here?
+
+Structural Causal Model (Deterministic): Characterizes a causal system with a set of variables, and a set of equations describing how each variable depends upon its immediate causal predecessors.
+Example of a Barbeque Grill. How can we causally model the scenario here? G: gas is connected or not. K: Position of the gas knob. L: Gas Level, I: Ignitor. F: Flame, M: Meat on, C: Cooked.
+
+Exogeneous Variables and Endogeneous Variables. Intervene on Particular variables. Set value of variable. Example: Replace F = L x I with F = 1.
+
+> Minimalist criteria for causal inference. Whether X is directly or indirectly causally relevant at all w.r.t Y - doesn't specify the functional form. 'thin' notion of causation. Just motivated by pragmatics. More of an interventionist network. A Model of Explanation.
+- Explanandum: Pendulum's period T has value t
+- Explanans: L = l, T = ...
+IG is staisfied, provided some conditions hold true. Then I is satisfied. - Explaining with a causal model.
+> Structural and Lewisian Counterfactuals.
+> Logical Properties: Modus Ponens invalid with counterfactuals.
