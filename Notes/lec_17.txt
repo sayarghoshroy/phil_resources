@@ -1,0 +1,12 @@
+Lecture 17 Notes:
+
+See L15 Slides.
+
+Causal Inference. Had covered Deterministic Causal Models, Counterfactuals. Look at Actual Causation: 2 people would throw rocks at a window. A does not throw seeing B has thrown. Model using a structural equation framework: counterfactual relationships and preemption. Handling Preemption.
+> Concluding Causation.
+
+- Introducing Nature of the World: Primary and Secondary Qualitites. If science already tells you what the world is, why do you need philosophers to talk about the nature of the world? How we see the world - how we visualize it in our heads? The reality stone. Nature of the world: we saw some of it in the topic on Causation - the world consists of causal relations. Nature of the world - more on how our mind works.
+
+- On Galileo's argument. Category of arguments. Whenever I conceive, I can't help but talk about certain properties: the primary qualitites. Secondary qualitites - non real. Properties: dependence between part and whole. The fallacy of composition. Pink unicorn and an orange bottle: real and not real (in the actual world). Galileo's argument on heat being a secondary quality.
+
+- Conceivability thesis. Primary and Secondary qualities. Theses 1 and 2. Which one is stronger? These 1' and 2'...
