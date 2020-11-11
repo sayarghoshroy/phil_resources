@@ -4,5 +4,7 @@
 
 - Lecture Notes
 - Assignments
+- Term Paper 
+- Short project can be found [here](https://github.com/sayarghoshroy/relevance-paradox)
 
 ---
